@@ -21,7 +21,7 @@
       let options = {
         type: 'roadmap'
       }
-      let apikey = 'YOUR_API_KEY'
+      let apikey = 'AIzaSyCEET0yhmici38On8xaTuQYYIIgombbnXw'
       return {
         apikey,
         options,
